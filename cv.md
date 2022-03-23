@@ -3,16 +3,12 @@
 ## Alexey Kostyanov 
 **Security engineer, beginner frontend developer**
 
-**E-mail: akostianov@yandex.ru**
+**E-mail:** akostianov@yandex.ru
 
 **Telegram:** [akostyanov](https://t.me/akostyanov)
 
-**Education**
-    Educational institution   | Period 
------------|:-------: 
-North-Caucasus Federal University   |    2013-2018
-Stavropol Lyceum No. 15    |    2002-2013
-
+**Education:** North-Caucasus Federal University (2013-2018)
+ 
 **My lifegoal:** continuous self-development. I have a 5 years experience of information security. Now I want to become a good front-end developer.
 
 Programming languages: JS, Python

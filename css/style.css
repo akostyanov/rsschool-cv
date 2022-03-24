@@ -3,27 +3,46 @@ body
     background-color: rgb(78, 78, 78);
 }
 
+.header {
+    background-color: rgb(36, 36, 36);
+}
 
-.test {
-    background-color: rgb(219, 219, 219);
-    font-family: 'Pacifico', cursive;
-    font-size: 100px;
-    width: auto;
-    padding: 10px;
+.main {
+    color: white;
+    background-color: rgb(63, 63, 63);
+}
+
+.name {
+    color: white;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-left: 10px;
     }
 
-    .mydiv {
-    font-size: 60px;
-    font-family: 'Pacifico', cursive;
-    background-color: rgb(219, 219, 219);
-    width: fit-content;
-    padding: 10px;
-    }
+.whoami {
+    color: yellow;
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
 
-.mydiv2 {
-    font-size: 60px;
-    font-family: 'Pacifico', cursive;
-    background-color: rgb(207, 20, 20);
-    width:fit-content;
+.photo {
+    width: 200px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
 
-    }
+.text {
+    font-size: 18px;
+    margin-left: 10px;  
+}
+
+h2 {
+color: yellow;
+font-size: 25px;
+margin-left: 10px;
+}
+
+a {
+    color: aqua;
+}

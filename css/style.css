@@ -51,10 +51,15 @@ margin-left: 10px;
 
 a {
     color: aqua;
-    
+    text-decoration: none;
 }
 
 .code {
     color: red;
     font-size: 15px;
+}
+
+div {
+    padding-top: 15px;
+    margin-bottom: 15px;
 }

@@ -4,6 +4,7 @@ html {
 
 body
 {
+    line-height: 1.3;
     background: url("https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png") center;
 }
 
@@ -36,7 +37,6 @@ body
 }
 
 h1 {
-    padding-top: 15px;
     color: white;
     font-size: 30px;
     margin-bottom: 10px;
@@ -57,9 +57,16 @@ a {
 .code {
     color: red;
     font-size: 15px;
+    padding-left: 10px;
 }
 
 div {
     padding-top: 15px;
     margin-bottom: 15px;
+}
+
+footer {
+    font-size: 30px;
+    color: white;
+    background-color: rgba(190, 190, 190, 0.664);
 }

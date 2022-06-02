@@ -3,7 +3,7 @@
 ## Alexey Kostyanov 
 **Security engineer, beginner frontend developer**
 
-**E-mail:** akostianov@yandex.ru
+**E-mail:** akostianov@ya.ru
 
 **Telegram:** [akostyanov](https://t.me/akostyanov)
 

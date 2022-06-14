@@ -3,7 +3,9 @@
 ## Alexey Kostyanov 
 **Security engineer, beginner frontend developer**
 
+
 **E-mail:** akostianov@yandex.ru
+
 
 **Telegram:** [akostyanov](https://t.me/akostyanov)
 
@@ -26,6 +28,3 @@ function even_or_odd(number) {
     }
 }
 ```
-
-
-    

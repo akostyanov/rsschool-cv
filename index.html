@@ -15,66 +15,87 @@
 
 <body>
   <header>
-    <div class="header">
+    <div >
+      <div class="container">
       <h1>Alexey Kostyanov</h1>
       <p class="whoami">Security engineer, beginner frontend developer</p>
       <img class="photo" src="./assets/jpg/3RchGsZRL0E.jpg" alt="photo">
-      <p class="menu">Skills</p>
-      <p class="menu">Education</p>
-      <p class="menu">Languages</p>
-      <p class="menu">My lifegoal</p>
-      <p class="menu">Code example</p>
-      <p class="menu">Contacts</p>
+      <nav class="menu">
+        <ul>
+          <li class="menu"><a href="#Skills">Skills</a></li>
+          <li class="menu"><a href="#Education">Education</a></li>
+          <li class="menu"><a href="#Languages">Languages</a></li>
+          <li class="menu"><a href="#Lifegoal">My lifegoal</a></li>
+          <li class="menu"><a href="#Code">Code example</a></li>
+          <li class="menu"><a href="#Contacts">Contacts</a></li>
+        </ul>
+      </nav>
     </div>
+  </div>
     
   </header>
 
-  <main class="main">
+  <main><a id="Skills"></a>
+    <div class="container">
+    
     <div>
       <h2>Skills</h2>
-        <ul>
+        <ul class="Skills">
+        <li>HTML</li>
+        <li>CSS</li>
         <li>JS</li>
         <li>Python</li>
     </ul>
     </div>
+    
     <div>
-      <h2>Education</h2>
+      <h2>Education</h2><a id="Education"></a>
       <div class="text">North-Caucasus Federal University (2013-2018)</div>
     </div>
     
       <div>
-      <h2>Languages</h2>
-      <div class="text">Russian - native<br>English - B2</div>
+      <h2>Languages</h2><a id="Languages"></a>
+      <ul class="Lang">
+        <li>Russian - native</li>
+        <li>English - B2</li>
+      </ul>
     </div>
+
     <div>
-      <h2>My lifegoal</h2>
+      <h2>My lifegoal</h2><a id="Lifegoal"></a>
       <div class="text">Continuous self-development. I have a 5 years experience of information security. <br>Now
         I want to become a good front-end developer.</div>
     </div>
    
+    
     <div>
-      <h2>Some code example with "even or odd" task:</h2>
-      <section class="code">function even_or_odd(number) {
-        if (number % 2 === 0) { <br>
-        return ('Even');<br>
-        }<br>
-        else {<br>
-        return ('Odd');<br>
-        }<br>
-        }</section>
+      <h2>Some code example with "even or odd" task:</h2><a id="Code"></a>
+      <pre>
+      function even_or_odd(number) {
+        if (number % 2 === 0) { 
+        return ('Even');
+        }
+        else {
+        return ('Odd');
+        }
+        }</pre>
     </div>
     <div>
-      <h2>Contacts</h2>
+      <h2>Contacts</h2><a id="Contacts"></a>
       <div class="text">E-mail: akostianov@yandex.ru<br><a href="https://t.me/akostyanov">Telegram</a></div>
     </div>
+    </main></div>
 
   </main>
 
-
-
-
-  <footer class="footer">
-  <div>FOOTER</div>
+  <footer>
+    <div class="container">
+      <div>
+      <a href="https://rs.school/js/"><img class="footerImg" src="https://rs.school/images/rs_school_js.svg" alt="course logo">
+      <a href="https://github.com/akostyanov"><img class="footerImg" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="gihub logo">
+      <span>2022</span>
+      </div>
+    </div>
   </footer>
 </body>
 

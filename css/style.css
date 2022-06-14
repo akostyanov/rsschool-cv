@@ -127,7 +127,9 @@ ul {
 
 footer div {
     margin-bottom: 0px;
-    text-align: center;
+    text-align-last: justify;
+    color: #1f1f1f;
+    padding-top: 10px;
 }
 
 .footerImg {

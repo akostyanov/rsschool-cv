@@ -130,9 +130,10 @@ footer div {
     text-align-last: justify;
     color: #1f1f1f;
     padding-top: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 .footerImg {
     width: 200px;
-
 }
